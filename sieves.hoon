@@ -1,5 +1,6 @@
-:-  %say  |=  *  :-  %noun
+::  %say generator, no arguments
 ::
+:-  %say  |=  *  :-  %noun
 ::
 |^
 =+  n=500
